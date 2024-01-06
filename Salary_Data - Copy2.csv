@@ -16,20 +16,20 @@
 44,Female,PhD,Scientist,18,183000
 34,Male,Master's Degree,Analyst,8,100000
 57,Female,PhD,Engineer,33,191790
-27,Female,Bachelor's Degree, Developer,2,36000
+27,Female,Bachelor's Degree,Developer,2,36000
 46,Male,PhD,Scientist,18,180000
 32,Male,Bachelor's Degree,Product,7,120000
 54,Male,PhD,Engineer,16,190000
 42,Male,Master's Degree,Product,14,180000
-25,Female,Bachelor's Degree, Developer,1,35000
-31,Male,Bachelor's Degree, Developer,6,85000
+25,Female,Bachelor's Degree,Developer,1,35000
+31,Male,Bachelor's Degree,Developer,6,85000
 37,Male,Master's Degree,Engineer,10,150000
 26,Female,Master's Degree,Developer,3,73218
 43,Male,Master's Degree,Engineer,21,187081
 27,Male,Bachelor's Degree,Analyst,2,50000
 43,Male,PhD,Scientist,16,160000
 26,Male,Bachelor's Degree,Analyst,3,130000
-31,Male,Bachelor's Degree, Developer,6,85000
+31,Male,Bachelor's Degree,Developer,6,85000
 34,Male,Master's Degree,Scientist,9,140000
 29,Male,Bachelor's Degree,Engineer,6,170000
 34,Male,Master's Degree,Developer,8,140000
@@ -37,7 +37,7 @@
 29,Female,High School,Sales,2,40000
 32,Male,Master's Degree,Developer,6,130000
 27,Female,Bachelor's Degree,Engineer,3,70000
-28,Male,Bachelor's Degree, Developer,3,60000
+28,Male,Bachelor's Degree,Developer,3,60000
 29,Female,High School,Sales,1,30000
 62,Male,PhD,Engineer,20,200000
 26,Male,Bachelor's Degree, Analyst,2,50000
@@ -209,10 +209,10 @@
 43,Male,PhD,Scientist,16,160000
 26,Male,Bachelor's Degree,Analyst,3,130000
 36,Male,PhD,Scientist,12,170000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 27,Male,Bachelor's Degree,Engineer,4,140000
 46,Male,PhD,Engineer,16,185000
-28,Male,Bachelor's Degree, Developer,3,60000
+28,Male,Bachelor's Degree,Developer,3,60000
 27,Male,Bachelor's Degree,Developer,2,70000
 30,Female,Master's Degree,Developer,5,105000
 35,Male,Bachelor's Degree,Developer,8,140000
@@ -231,14 +231,14 @@
 31,Male,Master's Degree,Engineer,8,130000
 31,Male,High School,Sales,3,50000
 33,Female,Master's Degree,Developer,5,110000
-31,Male,Bachelor's Degree, Developer,6,85000
+31,Male,Bachelor's Degree,Developer,6,85000
 45,Male,PhD,Engineer,16,150000
 48,Male,PhD,Engineer,16,190000
 44,Female,Master's Degree,HR,15,152000
 30,Male,Bachelor's Degree,Engineer,5,75000
 36,Male,Bachelor's Degree,Sales,11,160000
 29,Female,Master's Degree,Scientist,6,180000
-30,Male,Bachelor's Degree, Developer,6,85000
+30,Male,Bachelor's Degree,Developer,6,85000
 26,Male,Bachelor's Degree,Analyst,3,130000
 23,Male,High School,Sales,1,26000
 32,Male,Master's Degree,Product,7,110000
@@ -249,7 +249,7 @@
 30,Female,PhD,Scientist,7,185000
 29,Female,Master's Degree,Scientist,6,180000
 39,Female,Bachelor's Degree,Financial,16,200000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 26,Female,High School,Sales,1,35000
 30,Male,Bachelor's Degree,Engineer,5,75000
 27,Male,Bachelor's Degree,Developer,2,65000
@@ -291,15 +291,15 @@
 27,Male,Bachelor's Degree,Engineer,4,140000
 35,Female,Master's Degree,Analyst,9,120000
 32,Female,Master's Degree,Engineer,7,100000
-26,Male,Bachelor's Degree, Developer,3,60000
+26,Male,Bachelor's Degree,Developer,3,60000
 33,Female,Bachelor's Degree,HR,6,75000
 29,Female,Bachelor's Degree,Engineer,4,150000
 34,Male,Master's Degree,Analyst,8,100000
 40,Male,PhD,Engineer,12,160000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 34,Male,Master's Degree,Developer,8,90000
 27,Female,Bachelor's Degree,Engineer,4,73895
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 32,Male,Bachelor's Degree,Engineer,8,190000
 39,Female,Bachelor's Degree,Financial,16,200000
 23,Female,Bachelor's Degree,Engineer,1,50000
@@ -309,7 +309,7 @@
 31,Male,Master's Degree,Engineer,7,140000
 27,Male,Bachelor's Degree,Engineer,4,140000
 48,Female,Master's Degree,Engineer,24,184480
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 37,Male,Bachelor's Degree,Product,12,150000
 43,Female,Master's Degree,HR,14,146000
 48,Male,PhD,Scientist,18,210000
@@ -332,7 +332,7 @@
 38,Female,PhD,Scientist,12,140000
 26,Female,Master's Degree,HR,3,50000
 40,Male,Master's Degree,Engineer,17,151670
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 35,Male,Bachelor's Degree,Developer,9,125091
 28,Female,Master's Degree,Engineer,4,110000
 30,Male,Master's Degree,Developer,6,99363
@@ -360,7 +360,7 @@
 43,Female,PhD,Engineer,14,190000
 50,Male,PhD,Engineer,19,200000
 38,Female,PhD,Scientist,12,140000
-28,Male,Bachelor's Degree, Developer,3,75000
+28,Male,Bachelor's Degree,Developer,3,75000
 32,Male,Bachelor's Degree,Developer,6,110000
 42,Male,PhD,Scientist,13,140000
 33,Male,PhD,HR,8,95000
@@ -380,7 +380,7 @@
 49,Male,Bachelor's Degree,Sales,21,160000
 49,Female,PhD,Engineer,17,195000
 32,Female,Bachelor's Degree,Sales,3,40000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 26,Female,Master's Degree,Developer,1,55000
 29,Female,Master's Degree,Scientist,6,180000
 30,Male,Bachelor's Degree,Developer,5,100000
@@ -419,7 +419,7 @@
 36,Male,Bachelor's Degree,Engineer,14,119224
 31,Male,Bachelor's Degree,Sales,9,140000
 25,Male,Bachelor's Degree,Developer,2,90249
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 42,Male,Master's Degree,Engineer,13,170000
 27,Female,Bachelor's Degree,Engineer,3,70000
 28,Female,Master's Degree,Engineer,4,110000
@@ -458,7 +458,7 @@
 30,Female,High School,Sales,1,25000
 38,Male,Master's Degree,HR,8,95000
 27,Male,PhD,Scientist,2,115000
-26,Female,Bachelor's Degree, Developer,1,35000
+26,Female,Bachelor's Degree,Developer,1,35000
 32,Female,Master's Degree,Engineer,7,100000
 28,Female,High School,Sales,1,30000
 39,Male,PhD,Engineer,12,115000
@@ -545,7 +545,7 @@
 29,Male,Bachelor's Degree,Developer,4,80000
 34,Male,Master's Degree,Analyst,8,100000
 25,Male,Bachelor's Degree,Developer,1,60000
-28,Female,Bachelor's Degree, Developer,2,36000
+28,Female,Bachelor's Degree,Developer,2,36000
 45,Female,Bachelor's Degree,Engineer,22,171036
 25,Male,Bachelor's Degree,Analyst,3,135000
 26,Male,Master's Degree,Engineer,4,91397
@@ -562,13 +562,13 @@
 26,Male,Bachelor's Degree,Product,2,55000
 26,Male,Master's Degree,Engineer,3,88678
 28,Male,Bachelor's Degree,Developer,2,70000
-30,Male,Bachelor's Degree, Developer,6,85000
+30,Male,Bachelor's Degree,Developer,6,85000
 42,Male,Master's Degree,Product,14,180000
 29,Female,Master's Degree,Scientist,6,180000
 42,Male,PhD,Scientist,14,140000
 26,Female,High School,Sales,1,35000
 33,Female,Bachelor's Degree,Engineer,6,115000
-32,Female,Master's Degree, Developer,7,90000
+32,Female,Master's Degree,Developer,7,90000
 28,Female,High School,Sales,1,25000
 24,Male,Bachelor's Degree,Developer,1,40000
 26,Male,Bachelor's Degree,Engineer,1,55000
@@ -609,7 +609,7 @@
 31,Male,Master's Degree,Engineer,7,140000
 25,Male,High School,Sales,1,30000
 36,Male,Bachelor's Degree,Sales,11,160000
-31,Male,Bachelor's Degree, Developer,6,85000
+31,Male,Bachelor's Degree,Developer,6,85000
 28,Male,Bachelor's Degree,Developer,2,70000
 32,Male,Bachelor's Degree,Engineer,8,190000
 27,Male,Bachelor's Degree,Engineer,4,140000
@@ -619,7 +619,7 @@
 24,Female,High School,Sales,1,30000
 25,Male,Bachelor's Degree,Engineer,1,55000
 28,Male,Bachelor's Degree,Engineer,5,160000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 43,Male,PhD,Engineer,13,180000
 31,Male,Bachelor's Degree,Analyst,9,190000
 42,Male,PhD,Engineer,14,170000
@@ -661,7 +661,7 @@
 29,Female,Bachelor's Degree,Analyst,7,130000
 26,Female,Bachelor's Degree,HR,1,32000
 23,Female,High School,Developer,2,62807
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 35,Female,Master's Degree,Analyst,9,120000
 26,Female,Master's Degree,Developer,1,55000
 28,Male,Master's Degree,Product,3,130000
@@ -675,12 +675,12 @@
 36,Male,Bachelor's Degree,Sales,11,160000
 32,Male,Master's Degree,Product,7,110000
 35,Female,Master's Degree,Engineer,8,140000
-33,Female,Master's Degree, Developer,8,95000
+33,Female,Master's Degree,Developer,8,95000
 45,Male,PhD,Scientist,19,190000
 38,Male,Master's Degree,HR,8,95000
 49,Male,PhD,Scientist,22,220000
 32,Female,PhD,Scientist,9,145000
-26,Male,Bachelor's Degree, Developer,3,60000
+26,Male,Bachelor's Degree,Developer,3,60000
 25,Female,Master's Degree,Engineer,2,60000
 30,Female,Master's Degree,Developer,5,105000
 27,Female,High School,HR,1,32000
@@ -712,7 +712,7 @@
 32,Female,PhD,Scientist,9,195000
 34,Male,Bachelor's Degree,Developer,5,95000
 32,Male,Bachelor's Degree,Engineer,8,190000
-27,Male,Bachelor's Degree, Developer,3,60000
+27,Male,Bachelor's Degree,Developer,3,60000
 35,Male,PhD,Scientist,9,112000
 33,Male,Master's Degree,Product,11,198000
 24,Female,Bachelor's Degree,Developer,1,55000
@@ -785,7 +785,7 @@
 36,Male,Bachelor's Degree,Sales,3,45000
 45,Male,PhD,Scientist,18,180000
 28,Male,Bachelor's Degree,Engineer,3,85000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 27,Male,Master's Degree,Developer,2,50000
 40,Male,Master's Degree,Engineer,17,151670
 36,Male,PhD,Scientist,12,170000
@@ -826,7 +826,7 @@
 36,Male,PhD,Scientist,12,170000
 44,Male,PhD,Scientist,16,160000
 31,Male,Master's Degree,Engineer,7,140000
-28,Female,Bachelor's Degree, Developer,2,37000
+28,Female,Bachelor's Degree,Developer,2,37000
 34,Female,Bachelor's Degree,HR,9,99000
 38,Male,Master's Degree,Engineer,10,155000
 48,Male,PhD,Scientist,18,210000
@@ -839,7 +839,7 @@
 32,Female,Master's Degree,Engineer,6,115000
 30,Male,Master's Degree,Engineer,6,170000
 41,Male,Master's Degree,Developer,13,127346
-28,Female,Master's Degree, Developer,5,70000
+28,Female,Master's Degree,Developer,5,70000
 39,Female,Bachelor's Degree,Financial,16,200000
 35,Female,Bachelor's Degree, Analyst,8,85000
 36,Female,Bachelor's Degree,Sales,8,80000
@@ -870,7 +870,7 @@
 29,Male,Master's Degree,HR,4,70000
 40,Female,Bachelor's Degree,Financial,16,215000
 25,Female,Bachelor's Degree,Developer,1,55000
-26,Male,Bachelor's Degree, Developer,3,60000
+26,Male,Bachelor's Degree,Developer,3,60000
 26,Male,Master's Degree,Engineer,4,91397
 44,Male,Bachelor's Degree,Engineer,14,130000
 33,Female,Bachelor's Degree,Engineer,6,115000
@@ -883,14 +883,14 @@
 49,Male,PhD,Engineer,15,185000
 26,Male,Bachelor's Degree,Product,2,55000
 32,Female,Master's Degree,Engineer,6,115000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 27,Male,Bachelor's Degree,Analyst,2,110000
 46,Male,PhD,Engineer,15,180000
 48,Male,PhD,Engineer,16,190000
 29,Male,Bachelor's Degree,Developer,4,80000
 46,Male,PhD,Scientist,20,220000
 39,Female,Master's Degree,Engineer,12,160000
-26,Female,Bachelor's Degree, Developer,2,35000
+26,Female,Bachelor's Degree,Developer,2,35000
 46,Male,PhD,HR,15,150000
 28,Female,Bachelor's Degree,Engineer,5,160000
 43,Male,Master's Degree,Engineer,20,167924
@@ -945,22 +945,22 @@
 27,Male,Bachelor's Degree,Developer,2,65000
 27,Male,Bachelor's Degree,Sales,1,35000
 28,Female,Bachelor's Degree, Analyst,3,65000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 38,Male,Master's Degree,Engineer,10,155000
 43,Female,Master's Degree,HR,14,146000
 35,Female,Bachelor's Degree,Engineer,12,166375
-28,Male,Bachelor's Degree, Developer,3,60000
+28,Male,Bachelor's Degree,Developer,3,60000
 30,Male,Bachelor's Degree,Engineer,4,65000
 39,Male,Master's Degree,HR,10,105000
-27,Male,Bachelor's Degree, Developer,3,60000
+27,Male,Bachelor's Degree,Developer,3,60000
 33,Male,PhD,Sales,10,155000
 23,Female,Bachelor's Degree,Engineer,1,50000
 27,Male,Bachelor's Degree,Product,3,60000
-27,Female,Bachelor's Degree, Developer,3,61000
+27,Female,Bachelor's Degree,Developer,3,61000
 27,Female,Master's Degree,HR,2,42000
 30,Male,Master's Degree,Engineer,5,105000
 31,Male,Bachelor's Degree,Sales,3,50000
-29,Male,Bachelor's Degree, Developer,5,80000
+29,Male,Bachelor's Degree,Developer,5,80000
 41,Female,Master's Degree,Engineer,11,165000
 29,Female,Bachelor's Degree,Analyst,7,130000
 40,Male,PhD,Scientist,15,150000
@@ -973,7 +973,7 @@
 39,Female,Bachelor's Degree,Financial,16,200000
 39,Female,Master's Degree,Engineer,12,160000
 29,Male,Bachelor's Degree,Product,3,60000
-27,Female,Bachelor's Degree, Developer,2,36000
+27,Female,Bachelor's Degree,Developer,2,36000
 38,Female,Master's Degree,Engineer,13,134858
 25,Female,Master's Degree,Engineer,2,60000
 39,Female,PhD,Scientist,13,145000
@@ -1039,7 +1039,7 @@
 31,Male,PhD,HR,7,90000
 30,Female,Master's Degree,Engineer,6,110707
 49,Male,PhD,Engineer,17,195000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 27,Male,High School,Sales,2,40000
 28,Female,Bachelor's Degree,Engineer,5,160000
 33,Female,Bachelor's Degree,Engineer,7,130000
@@ -1062,11 +1062,11 @@
 36,Female,Master's Degree,Developer,7,85000
 52,Male,PhD,Engineer,26,185462
 30,Female,Bachelor's Degree,Developer,4,65000
-30,Male,Bachelor's Degree, Developer,6,85000
+30,Male,Bachelor's Degree,Developer,6,85000
 27,Female,Master's Degree,Developer,4,75969
 29,Male,Bachelor's Degree,Product,5,80000
 30,Male,Master's Degree,Financial,7,120000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 26,Male,Bachelor's Degree,Analyst,3,130000
 28,Female,Bachelor's Degree,HR,4,60000
 31,Male,High School,Sales,3,50000
@@ -1102,7 +1102,7 @@
 25,Female,Master's Degree,Engineer,2,60000
 27,Female,High School,HR,1,32000
 46,Male,Master's Degree,Engineer,21,174305
-28,Male,Bachelor's Degree, Developer,3,60000
+28,Male,Bachelor's Degree,Developer,3,60000
 36,Male,Bachelor's Degree,Engineer,8,135000
 33,Male,Master's Degree,Scientist,8,120000
 28,Male,Master's Degree,Product,3,130000
@@ -1196,7 +1196,7 @@
 28,Female,Master's Degree,Engineer,4,82697
 36,Female,Bachelor's Degree,Sales,2,35000
 29,Male,Bachelor's Degree, Analyst,4,70000
-28,Female,Bachelor's Degree, Developer,2,37000
+28,Female,Bachelor's Degree,Developer,2,37000
 31,Male,Bachelor's Degree,Analyst,9,195000
 49,Male,PhD,Engineer,15,185000
 25,Female,Master's Degree,Engineer,2,60000
@@ -1225,10 +1225,10 @@
 30,Male,Bachelor's Degree,Engineer,5,75000
 26,Male,Bachelor's Degree,Product,2,50000
 37,Female,Bachelor's Degree,Analyst,11,150000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 34,Male,Master's Degree,Analyst,8,100000
 31,Male,Bachelor's Degree,Engineer,6,115000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 41,Male,Master's Degree,Engineer,11,165000
 34,Female,Bachelor's Degree,Engineer,8,122485
 46,Male,Bachelor's Degree,Engineer,24,166828
@@ -1266,7 +1266,7 @@
 30,Male,Bachelor's Degree,Developer,5,100000
 39,Female,Master's Degree,Engineer,11,160000
 45,Male,PhD,Engineer,16,185000
-27,Male,Bachelor's Degree, Developer,3,60000
+27,Male,Bachelor's Degree,Developer,3,60000
 33,Male,PhD,Sales,10,155000
 23,Female,Bachelor's Degree,HR,1,32000
 43,Male,PhD,Scientist,16,162000
@@ -1284,7 +1284,7 @@
 37,Male,PhD,Product,14,195000
 34,Male,Bachelor's Degree,Product,9,185000
 34,Female,Bachelor's Degree,HR,6,75000
-29,Male,Bachelor's Degree, Developer,5,80000
+29,Male,Bachelor's Degree,Developer,5,80000
 54,Male,PhD,Engineer,17,195000
 27,Male,Bachelor's Degree,Engineer,3,80000
 54,Male,PhD,Engineer,17,195000
@@ -1312,7 +1312,7 @@
 40,Female,Master's Degree,HR,11,120000
 39,Female,Bachelor's Degree,Financial,16,200000
 38,Female,Master's Degree,Developer,10,155000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 56,Male,PhD,Engineer,17,195000
 32,Male,Bachelor's Degree,Product,7,170000
 44,Female,Master's Degree,Engineer,12,170000
@@ -1328,7 +1328,7 @@
 38,Female,PhD,Scientist,12,140000
 26,Male,Bachelor's Degree,Engineer,1,55000
 27,Female,Master's Degree,HR,3,50000
-26,Female,Bachelor's Degree, Developer,2,35000
+26,Female,Bachelor's Degree,Developer,2,35000
 31,Female,Master's Degree,Financial,7,120000
 32,Male,Bachelor's Degree,Engineer,8,180000
 27,Male,Bachelor's Degree,Product,2,55000
@@ -1343,7 +1343,7 @@
 45,Male,PhD,Scientist,19,190000
 40,Female,Bachelor's Degree,Financial,16,215000
 28,Female,Bachelor's Degree,Engineer,5,150000
-27,Male,Bachelor's Degree, Developer,3,60000
+27,Male,Bachelor's Degree,Developer,3,60000
 30,Male,Master's Degree,Engineer,5,105000
 26,Male,High School,Sales,2,35000
 23,Male,Bachelor's Degree,Analyst,1,90000
@@ -1374,11 +1374,11 @@
 32,Male,Bachelor's Degree,Engineer,8,190000
 31,Male,Master's Degree,Engineer,7,135000
 33,Female,Master's Degree,Engineer,5,120000
-26,Female,Bachelor's Degree, Developer,2,35000
+26,Female,Bachelor's Degree,Developer,2,35000
 32,Male,Master's Degree,Product,7,110000
 34,Female,Bachelor's Degree,HR,6,75000
 40,Male,Master's Degree,Engineer,17,151670
-27,Female,Bachelor's Degree, Developer,3,61000
+27,Female,Bachelor's Degree,Developer,3,61000
 31,Male,Bachelor's Degree,Analyst,9,190000
 27,Female,Master's Degree,HR,5,80000
 31,Male,Bachelor's Degree,Engineer,4,65000
@@ -1393,7 +1393,7 @@
 41,Female,PhD,Scientist,16,200000
 30,Male,Master's Degree,Engineer,6,105725
 27,Male,Bachelor's Degree,Developer,2,65000
-28,Male,Bachelor's Degree, Developer,3,60000
+28,Male,Bachelor's Degree,Developer,3,60000
 26,Male,Bachelor's Degree,Analyst,3,130000
 49,Male,PhD,Engineer,17,195000
 31,Female,PhD,Scientist,8,140000
@@ -1425,7 +1425,7 @@
 33,Female,Master's Degree,Developer,9,119918
 42,Male,PhD,Engineer,14,190000
 25,Male,Bachelor's Degree,Product,1,60000
-28,Female,Bachelor's Degree, Developer,2,37000
+28,Female,Bachelor's Degree,Developer,2,37000
 50,Female,Bachelor's Degree,Engineer,25,177177
 26,Male,Bachelor's Degree,Product,2,55000
 29,Female,High School,Sales,2,40000
@@ -1491,7 +1491,7 @@
 31,Male,Bachelor's Degree,Analyst,9,190000
 31,Male,Master's Degree,Engineer,7,140000
 25,Male,High School,Sales,1,30000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 56,Male,PhD,Engineer,17,195000
 30,Female,Master's Degree,Developer,5,105000
 29,Male,Bachelor's Degree,Engineer,4,70000
@@ -1529,10 +1529,10 @@
 28,Male,Bachelor's Degree,Developer,2,45000
 44,Male,PhD,Scientist,15,150000
 31,Male,Master's Degree,Engineer,7,140000
-29,Female,Master's Degree, Developer,5,70000
+29,Female,Master's Degree,Developer,5,70000
 43,Female,PhD,Engineer,14,190000
 46,Male,PhD,Scientist,18,160000
-27,Male,Bachelor's Degree, Developer,3,60000
+27,Male,Bachelor's Degree,Developer,3,60000
 43,Male,Master's Degree,Engineer,20,167924
 27,Male,Bachelor's Degree,Analyst,2,110000
 23,Male,Bachelor's Degree,Engineer,1,60000
@@ -1554,7 +1554,7 @@
 29,Male,Bachelor's Degree, Analyst,4,70000
 29,Male,Master's Degree,HR,4,70000
 34,Male,Bachelor's Degree,Developer,4,65000
-31,Male,Bachelor's Degree, Developer,6,85000
+31,Male,Bachelor's Degree,Developer,6,85000
 23,Male,PhD,Engineer,0,52612
 47,Male,PhD,Engineer,16,185000
 38,Male,Master's Degree,HR,8,95000
@@ -1566,10 +1566,10 @@
 25,Male,Bachelor's Degree,Engineer,1,55000
 28,Female,Bachelor's Degree,Engineer,3,125000
 54,Male,PhD,Engineer,17,195000
-26,Male,Bachelor's Degree, Developer,3,60000
+26,Male,Bachelor's Degree,Developer,3,60000
 28,Male,PhD,Sales,4,55000
 45,Male,PhD,Engineer,16,185000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 39,Male,Master's Degree,HR,11,100000
 43,Female,PhD,Engineer,14,190000
 29,Female,Master's Degree,Scientist,6,180000
@@ -1594,7 +1594,7 @@
 21,Female,High School,Sales,0,25000
 25,Female,Master's Degree,HR,1,32000
 31,Female,Master's Degree,Financial,7,120000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 41,Female,Master's Degree,Analyst,13,80000
 38,Female,Master's Degree,Developer,10,155000
 31,Female,Bachelor's Degree,Developer,6,110000
@@ -1610,7 +1610,7 @@
 43,Male,PhD,Engineer,13,185000
 30,Male,Bachelor's Degree,Analyst,5,160000
 27,Female,Bachelor's Degree,Product,2,65000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 44,Female,Master's Degree,Engineer,11,170000
 31,Female,Bachelor's Degree,Developer,3,50000
 29,Female,Bachelor's Degree,Developer,3,60000
@@ -1670,12 +1670,12 @@
 31,Male,Master's Degree,Scientist,9,185000
 54,Male,PhD,Engineer,28,182013
 29,Male,Bachelor's Degree, Analyst,4,70000
-27,Female,Bachelor's Degree, Developer,3,61000
+27,Female,Bachelor's Degree,Developer,3,61000
 29,Male,Bachelor's Degree,Analyst,7,130000
 48,Male,PhD,Scientist,18,210000
 27,Male,High School,Sales,2,35000
 33,Male,Master's Degree,Scientist,10,195000
-28,Female,Bachelor's Degree, Developer,2,37000
+28,Female,Bachelor's Degree,Developer,2,37000
 31,Male,Master's Degree,Scientist,9,185000
 24,Female,High School,Sales,1,30000
 33,Male,Master's Degree,Scientist,8,120000
@@ -1685,7 +1685,7 @@
 33,Female,Master's Degree,Engineer,8,105000
 46,Male,Bachelor's Degree,Engineer,25,166958
 29,Male,Bachelor's Degree,Engineer,6,88552
-28,Female,Bachelor's Degree, Developer,2,37000
+28,Female,Bachelor's Degree,Developer,2,37000
 27,Male,Bachelor's Degree,Engineer,4,115000
 38,Female,Master's Degree,Developer,10,155000
 33,Male,PhD,HR,9,120000
@@ -1712,7 +1712,7 @@
 26,Male,High School,Financial,3,45000
 40,Male,PhD,Engineer,12,160000
 28,Female,Bachelor's Degree,Developer,2,65000
-27,Male,Bachelor's Degree, Developer,1,50000
+27,Male,Bachelor's Degree,Developer,1,50000
 36,Male,Bachelor's Degree,Engineer,8,135000
 24,Female,High School,Sales,1,30000
 44,Male,PhD,Engineer,12,170000
@@ -1727,10 +1727,10 @@
 39,Female,PhD,Scientist,13,145000
 35,Female,Master's Degree,Engineer,11,151078
 27,Male,Bachelor's Degree,Engineer,5,150000
-29,Female,Master's Degree, Developer,5,70000
+29,Female,Master's Degree,Developer,5,70000
 36,Male,PhD,Scientist,11,135000
 29,Female,Master's Degree,Developer,3,90000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 24,Male,PhD,Engineer,1,106686
 36,Male,Bachelor's Degree,Developer,12,137878
 36,Male,Bachelor's Degree,Sales,11,160000
@@ -1797,7 +1797,7 @@
 34,Female,Bachelor's Degree,HR,6,75000
 26,Male,Bachelor's Degree,Analyst,3,130000
 29,Male,Bachelor's Degree,Engineer,4,65000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 54,Female,PhD,Engineer,32,191267
 41,Female,Bachelor's Degree,Engineer,20,151315
 33,Male,PhD,Sales,10,155000
@@ -1871,7 +1871,7 @@
 38,Male,Bachelor's Degree,Product,13,160000
 33,Male,Bachelor's Degree,Developer,5,70000
 49,Male,PhD,Engineer,15,185000
-26,Female,Bachelor's Degree, Developer,2,35000
+26,Female,Bachelor's Degree,Developer,2,35000
 29,Female,Master's Degree,HR,3,49000
 34,Male,Master's Degree,Scientist,9,140000
 28,Male,Master's Degree,Engineer,5,84181
@@ -1928,7 +1928,7 @@
 27,Male,Bachelor's Degree,Developer,2,65000
 31,Male,Bachelor's Degree,Sales,9,140000
 38,Male,PhD,Scientist,11,120000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 27,Male,Bachelor's Degree,Engineer,3,80000
 38,Male,Master's Degree,HR,8,95000
 42,Male,PhD,Engineer,14,170000
@@ -1945,7 +1945,7 @@
 27,Female,Master's Degree,HR,3,50000
 32,Male,High School,Sales,3,40000
 48,Male,PhD,Scientist,22,219000
-27,Female,Bachelor's Degree, Developer,3,61000
+27,Female,Bachelor's Degree,Developer,3,61000
 30,Male,Bachelor's Degree,Developer,5,100000
 26,Male,High School,Sales,2,40000
 31,Male,Bachelor's Degree,Analyst,9,190000
@@ -2005,7 +2005,7 @@
 29,Female,High School,Sales,1,25000
 43,Male,Master's Degree,Engineer,19,185000
 37,Male,Bachelor's Degree,Engineer,10,150000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 28,Male,Bachelor's Degree,Engineer,4,75000
 26,Female,High School,Financial,3,45000
 44,Male,PhD,Scientist,18,182000
@@ -2034,7 +2034,7 @@
 40,Male,PhD,Engineer,12,160000
 33,Female,Master's Degree,Product,11,198000
 29,Male,Bachelor's Degree,Developer,4,80000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 33,Male,Bachelor's Degree,Analyst,4,60000
 26,Male,Bachelor's Degree, Analyst,2,50000
 49,Male,PhD,Engineer,15,185000
@@ -2053,7 +2053,7 @@
 24,Female,High School,Sales,1,30000
 50,Female,Master's Degree,Engineer,21,177002
 35,Female,Master's Degree,Analyst,9,120000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 25,Male,High School,Sales,1,30000
 48,Male,Bachelor's Degree,Developer,23,173851
 33,Female,Bachelor's Degree,Engineer,7,130000
@@ -2106,9 +2106,9 @@
 48,Male,PhD,Engineer,16,190000
 26,Male,Bachelor's Degree,Analyst,3,130000
 28,Female,Bachelor's Degree,Engineer,4,82944
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 50,Female,Master's Degree,Engineer,23,183690
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 29,Female,Bachelor's Degree,Developer,4,90000
 29,Male,Bachelor's Degree,Engineer,4,71000
 26,Male,High School,Sales,2,40000
@@ -2120,9 +2120,9 @@
 52,Female,Master's Degree,Engineer,28,186963
 27,Male,Bachelor's Degree,Analyst,2,50000
 44,Male,Master's Degree,Engineer,11,170000
-26,Female,Bachelor's Degree, Developer,1,35000
+26,Female,Bachelor's Degree,Developer,1,35000
 58,Male,PhD,Engineer,17,195000
-27,Female,Bachelor's Degree, Developer,2,36000
+27,Female,Bachelor's Degree,Developer,2,36000
 38,Male,Master's Degree,Engineer,15,170995
 31,Male,Master's Degree,Engineer,6,125000
 28,Female,Bachelor's Degree, Analyst,3,60000
@@ -2130,7 +2130,7 @@
 37,Male,Bachelor's Degree,Product,13,160000
 30,Male,Bachelor's Degree,Developer,5,100000
 27,Male,Bachelor's Degree,Engineer,3,75000
-33,Male,Bachelor's Degree, Developer,5,50000
+33,Male,Bachelor's Degree,Developer,5,50000
 27,Female,Bachelor's Degree,HR,2,42000
 28,Female,Bachelor's Degree,Developer,2,55000
 42,Female,Master's Degree,Engineer,16,138286
@@ -2199,7 +2199,7 @@
 34,Male,Master's Degree,Developer,8,140000
 39,Female,Bachelor's Degree,Financial,16,200000
 30,Male,Bachelor's Degree,Engineer,4,65000
-29,Male,Bachelor's Degree, Developer,5,80000
+29,Male,Bachelor's Degree,Developer,5,80000
 30,Female,Master's Degree,Developer,5,105000
 25,Female,Master's Degree,HR,1,32000
 29,Male,Bachelor's Degree,Developer,4,80000
@@ -2219,8 +2219,8 @@
 31,Female,High School,Sales,1,25000
 29,Male,Bachelor's Degree, Analyst,4,70000
 54,Male,PhD,Engineer,17,195000
-26,Female,Bachelor's Degree, Developer,2,35000
-29,Male,Master's Degree, Developer,3,75000
+26,Female,Bachelor's Degree,Developer,2,35000
+29,Male,Master's Degree,Developer,3,75000
 29,Male,Bachelor's Degree,Engineer,4,70000
 30,Male,Bachelor's Degree,Analyst,5,160000
 33,Female,Master's Degree,Product,11,198000
@@ -2260,7 +2260,7 @@
 27,Male,Bachelor's Degree,Engineer,3,80000
 35,Female,Master's Degree,Analyst,9,120000
 23,Male,High School,Sales,1,25000
-23,Male,Bachelor's Degree, Developer,1,45000
+23,Male,Bachelor's Degree,Developer,1,45000
 48,Male,PhD,Engineer,16,190000
 32,Male,Bachelor's Degree,Engineer,8,190000
 30,Male,Master's Degree,Engineer,5,105000
@@ -2271,12 +2271,12 @@
 33,Male,PhD,Scientist,10,150000
 28,Female,Bachelor's Degree,Engineer,5,150000
 27,Female,Master's Degree,Developer,2,70000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 38,Male,Master's Degree,Engineer,10,155000
 23,Female,Bachelor's Degree,Developer,1,55000
 30,Male,Master's Degree,Engineer,6,170000
 27,Male,High School,Sales,2,35000
-26,Male,Bachelor's Degree, Developer,3,60000
+26,Male,Bachelor's Degree,Developer,3,60000
 30,Female,PhD,Scientist,7,185000
 26,Male,High School,Sales,2,31000
 26,Male,Bachelor's Degree,Analyst,3,130000
@@ -2393,7 +2393,7 @@
 32,Male,Bachelor's Degree,Product,7,170000
 25,Male,Bachelor's Degree,Product,1,60000
 30,Male,Bachelor's Degree,Product,8,185000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 42,Male,Master's Degree,Engineer,13,170000
 31,Female,PhD,Scientist,8,140000
 42,Male,PhD,Engineer,14,170000
@@ -2414,7 +2414,7 @@
 49,Male,PhD,Engineer,15,185000
 41,Female,PhD,Scientist,16,200000
 33,Male,Master's Degree,Product,11,198000
-28,Female,Bachelor's Degree, Developer,2,36000
+28,Female,Bachelor's Degree,Developer,2,36000
 32,Female,Master's Degree,Engineer,6,115000
 28,Male,High School,Developer,2,43000
 50,Male,PhD,Engineer,19,200000
@@ -2432,7 +2432,7 @@
 43,Female,PhD,HR,15,150000
 23,Female,High School,Developer,1,52807
 34,Female,Master's Degree,Product,12,196000
-27,Female,Bachelor's Degree, Developer,3,61000
+27,Female,Bachelor's Degree,Developer,3,61000
 29,Female,Bachelor's Degree,Developer,4,90000
 29,Female,High School,Sales,1,30000
 25,Female,Master's Degree,HR,1,32000
@@ -2445,14 +2445,14 @@
 24,Male,PhD,Engineer,1,106132
 23,Female,Bachelor's Degree,Developer,1,55000
 44,Male,Master's Degree,Engineer,18,152168
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 45,Male,PhD,HR,13,135000
 37,Male,Bachelor's Degree,Analyst,11,160000
 23,Female,Bachelor's Degree,Engineer,1,50000
 27,Female,Bachelor's Degree,Engineer,4,140000
 31,Male,Bachelor's Degree,Analyst,9,190000
-26,Male,Bachelor's Degree, Developer,2,60000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 29,Male,Bachelor's Degree, Analyst,4,70000
 27,Male,Bachelor's Degree,Analyst,2,110000
 43,Male,PhD,Engineer,13,185000
@@ -2470,7 +2470,7 @@
 30,Female,Master's Degree,Developer,5,105000
 29,Male,Bachelor's Degree,Product,3,60000
 36,Male,Bachelor's Degree,Sales,6,75000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 31,Male,High School,Sales,3,50000
 40,Female,Master's Degree,Engineer,16,138032
 29,Female,Master's Degree,Scientist,6,180000
@@ -2498,11 +2498,11 @@
 27,Male,Bachelor's Degree,Developer,3,85000
 35,Male,Master's Degree,Engineer,9,132638
 32,Female,Master's Degree,Engineer,9,120000
-26,Male,Bachelor's Degree, Developer,3,60000
+26,Male,Bachelor's Degree,Developer,3,60000
 44,Female,PhD,Scientist,16,160000
 51,Female,PhD,HR,23,185000
 54,Female,PhD,Engineer,14,190000
-28,Male,Bachelor's Degree, Developer,3,60000
+28,Male,Bachelor's Degree,Developer,3,60000
 33,Male,PhD,Scientist,8,190000
 40,Female,Master's Degree,HR,11,120000
 43,Female,PhD,Engineer,14,190000
@@ -2515,7 +2515,7 @@
 40,Female,Bachelor's Degree,Financial,16,215000
 31,Male,Master's Degree,HR,7,90000
 31,Female,PhD,Scientist,8,120000
-31,Male,Bachelor's Degree, Developer,6,85000
+31,Male,Bachelor's Degree,Developer,6,85000
 30,Male,Bachelor's Degree,Developer,5,70000
 42,Male,Master's Degree,Engineer,13,170000
 44,Female,PhD,Engineer,11,165000
@@ -2566,7 +2566,7 @@
 43,Male,Master's Degree,Engineer,17,155414
 26,Male,Bachelor's Degree,Product,2,50000
 29,Female,Bachelor's Degree,Developer,4,90000
-30,Male,Bachelor's Degree, Developer,6,85000
+30,Male,Bachelor's Degree,Developer,6,85000
 27,Female,Master's Degree,HR,3,50000
 29,Female,Master's Degree,Developer,3,90000
 27,Male,Bachelor's Degree,Engineer,3,80000
@@ -2576,7 +2576,7 @@
 38,Male,Bachelor's Degree,Developer,12,132442
 45,Male,PhD,HR,14,140000
 27,Male,Bachelor's Degree,Engineer,5,150000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 24,Male,Bachelor's Degree,Sales,1,35000
 33,Male,Master's Degree,Scientist,8,120000
 29,Male,Bachelor's Degree,Engineer,4,70000
@@ -2628,7 +2628,7 @@
 27,Female,Master's Degree,HR,3,50000
 26,Male,Bachelor's Degree,Analyst,3,120000
 24,Male,Bachelor's Degree,Analyst,1,90000
-29,Male,Bachelor's Degree, Developer,5,80000
+29,Male,Bachelor's Degree,Developer,5,80000
 32,Female,Master's Degree,Engineer,7,100000
 33,Female,Bachelor's Degree,Engineer,6,115000
 32,Female,Master's Degree,Engineer,5,120000
@@ -2642,7 +2642,7 @@
 34,Male,Master's Degree,Product,12,196000
 36,Female,Bachelor's Degree,Sales,7,60000
 46,Female,Bachelor's Degree,Developer,19,150729
-26,Female,Bachelor's Degree, Developer,1,35000
+26,Female,Bachelor's Degree,Developer,1,35000
 28,Female,Bachelor's Degree, Analyst,3,65000
 30,Female,High School,Sales,2,40000
 35,Male,PhD,Scientist,10,130000
@@ -2680,7 +2680,7 @@
 28,Male,Master's Degree,Product,3,130000
 24,Female,Bachelor's Degree,Developer,1,51265
 26,Female,Master's Degree,Product,2,120000
-27,Male,Bachelor's Degree, Developer,3,60000
+27,Male,Bachelor's Degree,Developer,3,60000
 34,Female,Bachelor's Degree,Engineer,8,122485
 27,Male,Bachelor's Degree,Engineer,3,80000
 35,Female,Master's Degree,HR,8,92000
@@ -2729,7 +2729,7 @@
 24,Male,Bachelor's Degree,Analyst,1,90000
 36,Male,PhD,Scientist,13,160000
 25,Male,Bachelor's Degree,Product,1,60000
-26,Male,Bachelor's Degree, Developer,1,35000
+26,Male,Bachelor's Degree,Developer,1,35000
 34,Male,Master's Degree,Engineer,9,146075
 29,Female,Bachelor's Degree,Developer,4,90000
 28,Female,Bachelor's Degree,Engineer,5,160000
@@ -2748,7 +2748,7 @@
 34,Male,Bachelor's Degree,Engineer,12,195000
 36,Male,Master's Degree,Engineer,8,140000
 50,Male,PhD,Scientist,23,225000
-27,Female,Bachelor's Degree, Developer,3,61000
+27,Female,Bachelor's Degree,Developer,3,61000
 37,Male,PhD,HR,11,115000
 27,Female,Bachelor's Degree,Engineer,4,140000
 36,Male,Master's Degree,HR,7,89000
@@ -2890,7 +2890,7 @@
 27,Female,Bachelor's Degree,Engineer,3,70000
 43,Female,PhD,Engineer,14,190000
 25,Male,Bachelor's Degree,Analyst,2,100000
-26,Female,Bachelor's Degree, Developer,1,35000
+26,Female,Bachelor's Degree,Developer,1,35000
 43,Male,PhD,Engineer,13,185000
 31,Male,Bachelor's Degree,Engineer,9,180000
 31,Female,PhD,Scientist,9,195000
@@ -2901,7 +2901,7 @@
 32,Male,Bachelor's Degree,Product,7,120000
 42,Male,Master's Degree,Product,14,180000
 46,Female,PhD,Engineer,21,174821
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 36,Male,PhD,Scientist,12,170000
 57,Male,PhD,Engineer,18,195000
 34,Female,Master's Degree,Engineer,10,163398
@@ -2934,7 +2934,7 @@
 26,Male,Bachelor's Degree,Analyst,3,130000
 35,Female,Bachelor's Degree,HR,8,92000
 60,Female,PhD,Engineer,34,188651
-32,Female,Master's Degree, Developer,8,95000
+32,Female,Master's Degree,Developer,8,95000
 32,Male,Bachelor's Degree,Product,7,120000
 30,Male,Bachelor's Degree,Developer,4,95000
 24,Male,Bachelor's Degree,Developer,1,55000
@@ -2978,7 +2978,7 @@
 42,Male,Master's Degree,Product,14,180000
 28,Female,Bachelor's Degree, Analyst,3,60000
 29,Female,Master's Degree,Scientist,6,180000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 34,Male,Master's Degree,Developer,8,90000
 23,Male,Bachelor's Degree,Sales,1,35000
 36,Male,PhD,Scientist,12,170000
@@ -3067,7 +3067,7 @@
 37,Male,Bachelor's Degree,Analyst,11,160000
 26,Male,Bachelor's Degree,Product,2,55000
 29,Female,Master's Degree,Developer,3,90000
-28,Female,Bachelor's Degree, Developer,2,36000
+28,Female,Bachelor's Degree,Developer,2,36000
 39,Male,Master's Degree,HR,9,95000
 29,Female,High School,Sales,1,25000
 28,Female,Bachelor's Degree, Analyst,3,60000
@@ -3099,7 +3099,7 @@
 31,Female,Bachelor's Degree,Engineer,6,104378
 45,Male,PhD,Scientist,19,190000
 45,Male,PhD,Engineer,16,185000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 27,Male,Bachelor's Degree,Engineer,3,80000
 30,Female,PhD,Scientist,7,185000
 30,Female,Bachelor's Degree,Analyst,5,145000
@@ -3143,7 +3143,7 @@
 26,Female,Bachelor's Degree,Analyst,3,130000
 35,Male,Bachelor's Degree,Developer,8,140000
 38,Female,PhD,Scientist,12,140000
-28,Female,Bachelor's Degree, Developer,2,36000
+28,Female,Bachelor's Degree,Developer,2,36000
 26,Male,High School,Sales,2,40000
 31,Female,High School,Sales,3,40000
 28,Female,Bachelor's Degree,HR,3,50000
@@ -3151,7 +3151,7 @@
 37,Male,Bachelor's Degree,Product,13,160000
 23,Male,Bachelor's Degree,Sales,1,35000
 48,Female,Master's Degree,Engineer,23,185038
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 34,Male,Master's Degree,Developer,8,140000
 36,Female,Master's Degree,Developer,7,85000
 31,Female,Bachelor's Degree,Engineer,6,155000
@@ -3178,7 +3178,7 @@
 43,Female,PhD,HR,15,150000
 37,Male,Bachelor's Degree,Analyst,11,160000
 28,Male,Bachelor's Degree,Engineer,4,75000
-27,Female,Bachelor's Degree, Developer,2,36000
+27,Female,Bachelor's Degree,Developer,2,36000
 31,Male,Master's Degree,Engineer,7,135000
 34,Male,Master's Degree,Analyst,8,100000
 24,Male,Bachelor's Degree,Analyst,1,95000
@@ -3320,7 +3320,7 @@
 43,Male,Master's Degree,Engineer,17,155414
 30,Female,Bachelor's Degree,Engineer,5,90000
 25,Female,Bachelor's Degree,Analyst,2,110000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 40,Female,Master's Degree,HR,12,130000
 42,Male,Master's Degree,Product,14,180000
 31,Male,Bachelor's Degree,Sales,9,140000
@@ -3352,7 +3352,7 @@
 28,Female,Bachelor's Degree,Engineer,5,160000
 27,Male,Bachelor's Degree,Developer,3,80000
 30,Female,Master's Degree,Engineer,5,100425
-28,Female,Bachelor's Degree, Developer,2,37000
+28,Female,Bachelor's Degree,Developer,2,37000
 45,Male,PhD,Engineer,16,185000
 41,Male,PhD,Scientist,15,157000
 30,Male,Master's Degree,Financial,7,120000
@@ -3380,7 +3380,7 @@
 33,Male,Master's Degree,Developer,6,130000
 31,Female,Bachelor's Degree,Engineer,6,155000
 25,Female,Master's Degree,HR,1,32000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 40,Female,Master's Degree,HR,12,130000
 23,Female,High School,Developer,1,52807
 30,Male,Bachelor's Degree,Engineer,4,65000
@@ -3391,7 +3391,7 @@
 29,Female,Bachelor's Degree,Financial,4,55000
 36,Male,PhD,Scientist,12,170000
 41,Female,PhD,Scientist,16,200000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 24,Male,Bachelor's Degree,Analyst,1,90000
 39,Female,Bachelor's Degree,Financial,16,200000
 31,Female,Bachelor's Degree,HR,4,50000
@@ -3423,7 +3423,7 @@
 25,Male,Bachelor's Degree,Analyst,2,110000
 33,Female,Bachelor's Degree,Engineer,7,130000
 28,Female,Bachelor's Degree, Analyst,3,65000
-26,Female,Bachelor's Degree, Developer,2,35000
+26,Female,Bachelor's Degree,Developer,2,35000
 39,Female,Bachelor's Degree,Financial,16,200000
 27,Male,Bachelor's Degree,Engineer,3,80000
 41,Male,Master's Degree,Financial,13,140000
@@ -3435,7 +3435,7 @@
 46,Male,PhD,Scientist,18,180000
 32,Male,Bachelor's Degree,Engineer,10,190000
 33,Female,Master's Degree,Engineer,8,105000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 32,Male,Master's Degree,Engineer,11,128078
 25,Female,Bachelor's Degree,Analyst,2,110000
 28,Male,Bachelor's Degree,Engineer,4,160000
@@ -3443,7 +3443,7 @@
 35,Female,Master's Degree,Analyst,9,120000
 36,Male,PhD,Scientist,12,170000
 42,Female,Bachelor's Degree,Engineer,20,150534
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 39,Female,Master's Degree,Engineer,11,160000
 31,Female,Bachelor's Degree,Engineer,6,155000
 43,Male,PhD,Engineer,13,185000
@@ -3509,16 +3509,16 @@
 46,Female,Bachelor's Degree,Engineer,20,139398
 52,Male,Master's Degree,Engineer,27,186794
 24,Female,High School,Sales,0,25000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 30,Male,Bachelor's Degree,Developer,5,100000
 35,Female,Bachelor's Degree,Product,12,190000
-30,Male,Bachelor's Degree, Developer,6,85000
-25,Female,Bachelor's Degree, Developer,1,35000
+30,Male,Bachelor's Degree,Developer,6,85000
+25,Female,Bachelor's Degree,Developer,1,35000
 27,Female,Bachelor's Degree,Engineer,3,70000
 24,Male,High School,Sales,1,30000
 25,Female,High School,Sales,1,35000
 42,Male,Master's Degree,Engineer,19,177347
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 27,Male,High School,Sales,2,35000
 37,Male,Bachelor's Degree,Analyst,11,160000
 33,Female,Master's Degree,Engineer,8,122970
@@ -3544,7 +3544,7 @@
 27,Male,High School,Developer,3,68611
 33,Female,Bachelor's Degree,Engineer,8,124071
 49,Male,Bachelor's Degree,Developer,24,178284
-28,Female,Bachelor's Degree, Developer,2,37000
+28,Female,Bachelor's Degree,Developer,2,37000
 25,Female,Bachelor's Degree,Analyst,2,110000
 48,Male,PhD,Scientist,18,210000
 33,Male,Master's Degree,Scientist,8,120000
@@ -3564,9 +3564,9 @@
 26,Male,High School,Sales,2,40000
 27,Male,PhD,Scientist,2,115000
 29,Female,Master's Degree,Engineer,5,102868
-27,Female,Bachelor's Degree, Developer,3,61000
+27,Female,Bachelor's Degree,Developer,3,61000
 30,Female,Bachelor's Degree,Engineer,5,90000
-28,Female,Bachelor's Degree, Developer,2,36000
+28,Female,Bachelor's Degree,Developer,2,36000
 26,Male,Master's Degree,Developer,4,75656
 33,Female,Bachelor's Degree,Engineer,7,130000
 27,Female,Bachelor's Degree,Engineer,3,70000
@@ -3615,7 +3615,7 @@
 45,Female,Bachelor's Degree,Engineer,21,167015
 26,Female,Bachelor's Degree,Engineer,1,45000
 37,Male,Bachelor's Degree,Sales,6,75000
-27,Female,Bachelor's Degree, Developer,2,36000
+27,Female,Bachelor's Degree,Developer,2,36000
 34,Male,Master's Degree,Scientist,9,140000
 33,Female,Master's Degree,Engineer,8,105000
 27,Male,Bachelor's Degree,Developer,2,65000
@@ -3662,7 +3662,7 @@
 25,Female,Master's Degree,Engineer,2,60000
 27,Male,Bachelor's Degree,Engineer,4,140000
 36,Male,PhD,Scientist,12,170000
-29,Male,Bachelor's Degree, Developer,5,80000
+29,Male,Bachelor's Degree,Developer,5,80000
 33,Female,Master's Degree,Engineer,9,136986
 51,Male,PhD,Engineer,26,191159
 25,Female,High School,Sales,1,35000
@@ -3677,7 +3677,7 @@
 26,Male,Bachelor's Degree, Analyst,2,50000
 27,Female,Bachelor's Degree,Engineer,3,70000
 26,Male,Bachelor's Degree,Product,2,55000
-27,Male,Bachelor's Degree, Developer,3,62000
+27,Male,Bachelor's Degree,Developer,3,62000
 36,Male,Bachelor's Degree,Analyst,9,162000
 30,Female,Bachelor's Degree,Engineer,5,90000
 27,Male,Bachelor's Degree,Engineer,5,150000
@@ -3711,7 +3711,7 @@
 35,Female,Master's Degree,Analyst,9,120000
 42,Female,Master's Degree,Engineer,14,163978
 32,Male,Bachelor's Degree,Product,7,170000
-29,Male,Bachelor's Degree, Developer,5,80000
+29,Male,Bachelor's Degree,Developer,5,80000
 30,Male,Master's Degree,Financial,7,120000
 33,Male,Master's Degree,Product,11,195000
 30,Female,High School,Sales,1,26000
@@ -3736,7 +3736,7 @@
 26,Female,Master's Degree,Developer,3,72649
 31,Female,PhD,Scientist,8,140000
 29,Female,Master's Degree,Scientist,6,150000
-26,Female,Bachelor's Degree, Developer,1,35000
+26,Female,Bachelor's Degree,Developer,1,35000
 35,Male,Bachelor's Degree,Engineer,8,145000
 30,Female,Master's Degree,Engineer,5,106278
 36,Male,Bachelor's Degree,Sales,11,160000
@@ -3766,7 +3766,7 @@
 28,Female,High School,Sales,2,40000
 44,Male,PhD,Scientist,15,150000
 29,Female,Master's Degree,Scientist,6,150000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 24,Female,High School,Sales,1,35000
 31,Male,Bachelor's Degree,Sales,9,140000
 35,Female,Bachelor's Degree, Analyst,8,85000
@@ -3786,7 +3786,7 @@
 31,Female,Master's Degree,Scientist,6,180000
 39,Female,PhD,Scientist,13,145000
 46,Male,PhD,Engineer,16,190000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 24,Male,Bachelor's Degree,Analyst,1,90000
 36,Female,PhD,Scientist,12,170000
 29,Female,Master's Degree,Developer,5,70000
@@ -3804,11 +3804,11 @@
 38,Female,PhD,Engineer,15,144496
 27,Male,Bachelor's Degree,Engineer,3,75000
 33,Female,Master's Degree,Developer,9,121120
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 25,Female,Bachelor's Degree,Analyst,2,110000
 54,Other,High School,Engineer,29,158966
 28,Female,Master's Degree,HR,2,45000
-28,Female,Bachelor's Degree, Developer,2,36000
+28,Female,Bachelor's Degree,Developer,2,36000
 33,Male,Master's Degree,Engineer,9,120000
 27,Male,Bachelor's Degree,Engineer,4,140000
 43,Male,PhD,Scientist,16,160000
@@ -3843,7 +3843,7 @@
 44,Female,Master's Degree,Engineer,11,170000
 28,Female,Bachelor's Degree, Analyst,3,60000
 27,Male,Bachelor's Degree,Developer,3,80000
-28,Male,Bachelor's Degree, Developer,3,60000
+28,Male,Bachelor's Degree,Developer,3,60000
 27,Male,Bachelor's Degree,Developer,2,65000
 34,Male,Bachelor's Degree,Developer,10,126520
 36,Male,Bachelor's Degree,Sales,3,45000
@@ -3851,7 +3851,7 @@
 33,Male,Bachelor's Degree,Analyst,4,60000
 42,Male,Master's Degree,Product,14,180000
 30,Female,PhD,Scientist,7,170000
-26,Female,Bachelor's Degree, Developer,2,35000
+26,Female,Bachelor's Degree,Developer,2,35000
 44,Male,PhD,Scientist,16,160000
 30,Female,Bachelor's Degree,Engineer,5,90000
 44,Female,Master's Degree,Engineer,12,170000
@@ -3891,7 +3891,7 @@
 28,Male,Bachelor's Degree,Analyst,2,40000
 30,Male,Bachelor's Degree,Developer,5,100000
 33,Female,Master's Degree,Engineer,6,115000
-30,Male,Bachelor's Degree, Developer,6,85000
+30,Male,Bachelor's Degree,Developer,6,85000
 27,Male,Bachelor's Degree,Engineer,4,160000
 41,Male,Master's Degree,Engineer,13,170000
 35,Female,Bachelor's Degree,Product,8,165000
@@ -3923,7 +3923,7 @@
 36,Male,Bachelor's Degree,Analyst,8,95000
 55,Male,PhD,Engineer,18,210000
 41,Male,PhD,Scientist,13,140000
-28,Female,Bachelor's Degree, Developer,2,36000
+28,Female,Bachelor's Degree,Developer,2,36000
 47,Male,Bachelor's Degree,Sales,20,135000
 28,Male,Bachelor's Degree,Analyst,3,52000
 23,Female,Bachelor's Degree,Engineer,1,50000
@@ -3938,7 +3938,7 @@
 51,Male,PhD,Scientist,24,240000
 29,Female,Master's Degree,Developer,5,70000
 33,Male,Master's Degree,Scientist,8,120000
-27,Male,Bachelor's Degree, Developer,3,60000
+27,Male,Bachelor's Degree,Developer,3,60000
 33,Female,Master's Degree,Product,11,198000
 27,Male,Bachelor's Degree,Engineer,4,140000
 30,Female,Master's Degree,Developer,4,90000
@@ -4005,7 +4005,7 @@
 33,Male,Bachelor's Degree,Product,4,60000
 27,Female,Bachelor's Degree,Engineer,3,70000
 42,Male,PhD,HR,16,140000
-28,Female,Bachelor's Degree, Developer,2,36000
+28,Female,Bachelor's Degree,Developer,2,36000
 23,Female,Bachelor's Degree, Analyst,1,35000
 42,Male,Master's Degree,Product,14,180000
 38,Female,Bachelor's Degree,Analyst,10,110000
@@ -4026,7 +4026,7 @@
 29,Male,Bachelor's Degree,Developer,4,80000
 56,Male,PhD,Engineer,17,195000
 33,Female,Master's Degree,Product,11,196000
-27,Female,Bachelor's Degree, Developer,2,36000
+27,Female,Bachelor's Degree,Developer,2,36000
 34,Female,Master's Degree,HR,9,95000
 37,Male,Bachelor's Degree,Product,13,160000
 32,Female,Master's Degree,Financial,8,120000
@@ -4046,7 +4046,7 @@
 44,Male,PhD,Scientist,17,168000
 54,Male,PhD,Engineer,30,184660
 32,Female,Master's Degree,HR,6,80000
-29,Male,Bachelor's Degree, Developer,5,80000
+29,Male,Bachelor's Degree,Developer,5,80000
 30,Female,Bachelor's Degree,Analyst,5,145000
 41,Female,Master's Degree,HR,13,140000
 39,Female,Master's Degree,Engineer,11,160000
@@ -4092,18 +4092,18 @@
 53,Male,PhD,Engineer,19,195000
 35,Female,Master's Degree,Analyst,9,120000
 28,Male,Bachelor's Degree,Engineer,4,75000
-29,Male,Bachelor's Degree, Developer,5,80000
+29,Male,Bachelor's Degree,Developer,5,80000
 29,Male,High School,Sales,2,40000
 34,Male,Master's Degree,Developer,8,140000
 29,Female,PhD,Scientist,5,100000
 33,Female,Master's Degree,Product,11,198000
 42,Male,Master's Degree,Engineer,13,170000
-29,Female,Bachelor's Degree, Developer,5,80000
+29,Female,Bachelor's Degree,Developer,5,80000
 39,Female,Bachelor's Degree,Financial,15,200000
 55,Female,Bachelor's Degree,Engineer,30,183020
 30,Male,Master's Degree,Financial,7,120000
 35,Male,Bachelor's Degree,Developer,8,140000
-31,Male,Bachelor's Degree, Developer,6,85000
+31,Male,Bachelor's Degree,Developer,6,85000
 38,Male,Master's Degree,Engineer,15,171652
 47,Male,PhD,Engineer,16,190000
 28,Female,Bachelor's Degree, Analyst,3,60000
@@ -4176,7 +4176,7 @@
 28,Female,Bachelor's Degree,Developer,2,65000
 43,Male,PhD,Scientist,16,162000
 25,Female,Master's Degree,Engineer,2,60000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 25,Male,Bachelor's Degree,Product,1,60000
 49,Female,PhD,Engineer,22,178684
 45,Male,PhD,Scientist,18,180000
@@ -4209,12 +4209,12 @@
 50,Female,PhD,Engineer,16,190000
 25,Male,Bachelor's Degree,Product,1,55000
 36,Male,Master's Degree,Engineer,13,146508
-27,Female,Bachelor's Degree, Developer,2,36000
+27,Female,Bachelor's Degree,Developer,2,36000
 34,Male,Master's Degree,Scientist,9,140000
 23,Female,Bachelor's Degree,HR,1,32000
 27,Male,Bachelor's Degree,Developer,3,80000
 42,Male,Master's Degree,Engineer,18,180000
-28,Male,Bachelor's Degree, Developer,3,60000
+28,Male,Bachelor's Degree,Developer,3,60000
 36,Female,PhD,Scientist,13,185000
 40,Female,Bachelor's Degree,Financial,16,215000
 23,Female,Bachelor's Degree,Engineer,1,50000
@@ -4243,7 +4243,7 @@
 42,Male,Master's Degree,Product,14,180000
 40,Female,Bachelor's Degree,Financial,16,215000
 39,Male,Master's Degree,HR,10,105000
-27,Male,Bachelor's Degree, Developer,3,60000
+27,Male,Bachelor's Degree,Developer,3,60000
 30,Female,High School,Sales,1,25000
 46,Female,Bachelor's Degree,Developer,18,155795
 31,Female,PhD,Scientist,8,140000
@@ -4337,7 +4337,7 @@
 26,Female,Master's Degree,HR,2,55000
 27,Female,Master's Degree,HR,2,42000
 32,Female,Master's Degree,Engineer,6,115000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 23,Male,Bachelor's Degree,Analyst,1,90000
 28,Female,Bachelor's Degree,Developer,3,80000
 36,Female,PhD,Scientist,13,185000
@@ -4425,7 +4425,7 @@
 54,Male,Bachelor's Degree,Engineer,25,179756
 43,Female,Master's Degree,HR,14,146000
 39,Female,Master's Degree,Engineer,12,160000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 31,Female,High School,HR,3,38000
 48,Male,PhD,Engineer,16,190000
 29,Female,Bachelor's Degree,Engineer,4,140000
@@ -4473,7 +4473,7 @@
 27,Male,Bachelor's Degree,Engineer,1,55000
 31,Male,PhD,HR,7,90000
 39,Female,PhD,Scientist,13,145000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 36,Male,Bachelor's Degree,Developer,12,137878
 30,Male,PhD,Scientist,7,185000
 33,Male,PhD,Scientist,10,150000
@@ -4531,7 +4531,7 @@
 34,Male,Master's Degree,Engineer,9,105000
 29,Male,Bachelor's Degree,Sales,5,70000
 27,Female,Bachelor's Degree,Engineer,3,70000
-26,Female,Bachelor's Degree, Developer,1,35000
+26,Female,Bachelor's Degree,Developer,1,35000
 31,Male,Bachelor's Degree,Analyst,9,195000
 29,Male,Bachelor's Degree,Developer,4,80000
 24,Male,Bachelor's Degree,Developer,1,55000
@@ -4565,7 +4565,7 @@
 45,Male,PhD,Engineer,14,185000
 44,Male,PhD,Scientist,16,160000
 39,Female,Bachelor's Degree,Financial,15,200000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 27,Female,High School,HR,1,32000
 38,Male,Bachelor's Degree,Developer,12,131960
 35,Female,Master's Degree,HR,8,92000
@@ -4573,7 +4573,7 @@
 27,Male,Bachelor's Degree,Engineer,3,80000
 27,Male,Bachelor's Degree,Product,2,55000
 34,Male,Master's Degree,Developer,9,150000
-26,Female,Bachelor's Degree, Developer,1,35000
+26,Female,Bachelor's Degree,Developer,1,35000
 45,Male,PhD,Engineer,16,185000
 38,Male,Bachelor's Degree,Developer,14,136449
 28,Female,Bachelor's Degree, Analyst,3,60000
@@ -4658,17 +4658,17 @@
 28,Male,High School,Sales,2,35000
 52,Male,PhD,Engineer,26,185982
 34,Female,Master's Degree,Product,11,196000
-26,Male,Bachelor's Degree, Developer,2,60000
-25,Female,Bachelor's Degree, Developer,1,35000
+26,Male,Bachelor's Degree,Developer,2,60000
+25,Female,Bachelor's Degree,Developer,1,35000
 31,Female,PhD,Scientist,8,140000
 54,Male,PhD,Engineer,17,195000
 26,Female,Bachelor's Degree,Engineer,1,45000
 40,Male,Master's Degree,Engineer,16,150301
 26,Male,Bachelor's Degree,Analyst,3,130000
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 27,Male,Bachelor's Degree,Engineer,3,80000
 36,Female,Master's Degree,Engineer,13,140010
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 44,Male,PhD,Scientist,17,168000
 40,Female,Bachelor's Degree,Financial,16,215000
 26,Male,Bachelor's Degree,Analyst,3,130000
@@ -4695,12 +4695,12 @@
 27,Female,Bachelor's Degree,Engineer,2,48000
 26,Male,High School,Sales,2,31000
 46,Male,PhD,Engineer,14,180000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 32,Male,Master's Degree,Developer,6,130000
 50,Male,Master's Degree,Engineer,21,166512
 30,Female,Master's Degree,Engineer,5,100867
 27,Male,Bachelor's Degree,Developer,2,65000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 36,Male,PhD,Scientist,12,170000
 23,Female,Bachelor's Degree,Engineer,1,50000
 40,Male,PhD,Scientist,15,150000
@@ -4731,18 +4731,18 @@
 27,Male,Bachelor's Degree,Developer,3,80000
 29,Female,Bachelor's Degree,Engineer,4,140000
 44,Female,PhD,Scientist,18,183000
-30,Male,Bachelor's Degree, Developer,6,85000
+30,Male,Bachelor's Degree,Developer,6,85000
 39,Female,PhD,Scientist,13,145000
 50,Male,PhD,Scientist,23,225000
 36,Male,Master's Degree,Developer,8,140000
-26,Female,Bachelor's Degree, Developer,1,35000
+26,Female,Bachelor's Degree,Developer,1,35000
 32,Male,Bachelor's Degree,Engineer,10,190000
 46,Male,PhD,Scientist,18,180000
 27,Male,Bachelor's Degree,Developer,3,80000
 32,Male,Master's Degree,Product,7,110000
 38,Female,PhD,Scientist,12,140000
 34,Male,Master's Degree,Analyst,8,100000
-27,Female,Bachelor's Degree, Developer,3,61000
+27,Female,Bachelor's Degree,Developer,3,61000
 27,Male,Bachelor's Degree,Developer,3,80000
 26,Male,Bachelor's Degree, Analyst,2,50000
 27,Male,Bachelor's Degree,Product,2,55000
@@ -4774,7 +4774,7 @@
 28,Male,Bachelor's Degree,Analyst,3,52000
 24,Female,Bachelor's Degree,Developer,1,40000
 50,Male,PhD,Engineer,18,195000
-31,Male,Bachelor's Degree, Developer,6,85000
+31,Male,Bachelor's Degree,Developer,6,85000
 27,Male,High School,Financial,3,45000
 25,Male,High School,Sales,1,26000
 21,Female,High School,Sales,0,25000
@@ -4791,7 +4791,7 @@
 36,Female,PhD,Scientist,13,185000
 30,Female,Bachelor's Degree,Engineer,8,180000
 45,Male,PhD,Engineer,16,150000
-29,Female,Bachelor's Degree, Developer,3,65000
+29,Female,Bachelor's Degree,Developer,3,65000
 31,Female,Bachelor's Degree,Engineer,6,104378
 32,Male,Bachelor's Degree,Product,7,120000
 37,Male,PhD,HR,11,115000
@@ -4829,7 +4829,7 @@
 42,Female,Master's Degree,Engineer,16,138286
 44,Male,Master's Degree,Engineer,21,168906
 36,Male,Bachelor's Degree,Engineer,8,135000
-28,Male,Bachelor's Degree, Developer,1,50000
+28,Male,Bachelor's Degree,Developer,1,50000
 29,Female,Master's Degree,Scientist,6,180000
 53,Male,PhD,Engineer,18,195000
 21,Female,High School,Sales,0,25000
@@ -4867,7 +4867,7 @@
 44,Male,Bachelor's Degree,Engineer,13,130000
 45,Female,PhD,Engineer,23,172925
 49,Male,Master's Degree,Engineer,22,182237
-25,Female,Bachelor's Degree, Developer,1,35000
+25,Female,Bachelor's Degree,Developer,1,35000
 26,Female,Master's Degree,Developer,1,55000
 32,Male,Bachelor's Degree,Developer,6,110000
 41,Male,Master's Degree,Engineer,14,180000
@@ -4913,7 +4913,7 @@
 34,Male,Master's Degree,Scientist,9,140000
 33,Female,Master's Degree,Product,11,198000
 37,Male,Master's Degree,Engineer,9,145000
-26,Male,Bachelor's Degree, Developer,3,60000
+26,Male,Bachelor's Degree,Developer,3,60000
 30,Female,High School,Sales,1,26000
 27,Female,Bachelor's Degree,Engineer,3,70000
 23,Male,PhD,Engineer,0,52779
@@ -4980,7 +4980,7 @@
 35,Male,Bachelor's Degree,Developer,10,128999
 27,Male,Bachelor's Degree,Engineer,4,140000
 32,Male,Bachelor's Degree,Product,7,120000
-27,Female,Bachelor's Degree, Developer,2,36000
+27,Female,Bachelor's Degree,Developer,2,36000
 33,Male,PhD,Sales,10,155000
 35,Female,Master's Degree,Analyst,9,120000
 37,Male,Bachelor's Degree,Analyst,11,160000
@@ -4991,8 +4991,8 @@
 26,Male,Bachelor's Degree,Engineer,1,52000
 25,Female,Bachelor's Degree,Developer,1,55000
 24,Female,High School,Sales,1,30000
-26,Female,Bachelor's Degree, Developer,2,35000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Female,Bachelor's Degree,Developer,2,35000
+26,Male,Bachelor's Degree,Developer,2,60000
 34,Male,Master's Degree,Analyst,8,100000
 27,Male,Bachelor's Degree,Developer,2,65000
 25,Female,Bachelor's Degree,Analyst,2,110000
@@ -5074,7 +5074,7 @@
 29,Female,Master's Degree,HR,4,70000
 46,Male,Bachelor's Degree,Engineer,23,181699
 39,Female,Master's Degree,Engineer,12,160000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 30,Female,Master's Degree,Developer,5,105000
 30,Female,Master's Degree,HR,3,49000
 27,Female,Bachelor's Degree,HR,2,50000
@@ -5093,7 +5093,7 @@
 43,Female,PhD,Engineer,13,180000
 29,Male,Bachelor's Degree,Developer,4,80000
 27,Male,Bachelor's Degree,Engineer,4,140000
-24,Female,Bachelor's Degree, Developer,2,55000
+24,Female,Bachelor's Degree,Developer,2,55000
 33,Female,Master's Degree,Engineer,10,112439
 26,Male,Bachelor's Degree,Analyst,3,120000
 32,Male,Master's Degree,HR,6,95000
@@ -5129,7 +5129,7 @@
 25,Female,High School,Sales,0,25000
 54,Male,Master's Degree,Engineer,32,195270
 43,Male,Bachelor's Degree,Engineer,20,142421
-28,Female,Bachelor's Degree, Developer,2,37000
+28,Female,Bachelor's Degree,Developer,2,37000
 62,Male,PhD,Engineer,19,200000
 28,Male,Bachelor's Degree,Engineer,4,75000
 31,Male,High School,Sales,3,50000
@@ -5139,7 +5139,7 @@
 31,Female,High School,Sales,2,40000
 46,Male,PhD,Engineer,14,180000
 36,Male,Master's Degree,Engineer,11,138859
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 42,Male,Master's Degree,Engineer,19,175684
 41,Female,PhD,Scientist,16,200000
 43,Male,PhD,Engineer,13,180000
@@ -5173,7 +5173,7 @@
 33,Male,PhD,Scientist,10,150000
 25,Male,Bachelor's Degree,Product,1,60000
 26,Female,Bachelor's Degree,Analyst,3,100000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 29,Female,Bachelor's Degree,Financial,4,55000
 28,Female,Master's Degree,Engineer,4,110000
 26,Male,Bachelor's Degree, Analyst,2,50000
@@ -5191,7 +5191,7 @@
 26,Female,Master's Degree,Developer,2,65840
 28,Female,Bachelor's Degree,Engineer,5,150000
 47,Male,PhD,Engineer,16,190000
-26,Male,Bachelor's Degree, Developer,2,60000
+26,Male,Bachelor's Degree,Developer,2,60000
 39,Female,Master's Degree,Engineer,15,134641
 44,Female,PhD,HR,13,135000
 52,Male,PhD,Engineer,23,161568
@@ -5227,7 +5227,7 @@
 23,Female,Bachelor's Degree,Engineer,1,50000
 28,Female,Master's Degree,Scientist,6,155000
 23,Female,Bachelor's Degree,Engineer,1,50000
-30,Male,Bachelor's Degree, Developer,6,85000
+30,Male,Bachelor's Degree,Developer,6,85000
 25,Male,Bachelor's Degree,Engineer,1,60000
 43,Female,PhD,Engineer,14,190000
 34,Male,Master's Degree,Engineer,9,146075
@@ -5283,7 +5283,7 @@
 40,Female,Master's Degree,Engineer,12,160000
 39,Female,Master's Degree,Engineer,12,160000
 34,Female,Bachelor's Degree,HR,6,75000
-26,Male,Bachelor's Degree, Developer,3,60000
+26,Male,Bachelor's Degree,Developer,3,60000
 29,Female,Bachelor's Degree,Developer,4,90000
 29,Male,Bachelor's Degree,Engineer,4,65000
 42,Male,PhD,Scientist,13,140000
